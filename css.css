@@ -1,0 +1,14 @@
+p.h1 {
+  border-style: solid;
+  border-color: silver;
+}
+
+p.h2 {
+  border-style: solid;
+  border-color: gold;
+} 
+
+p.h3 {
+  border-style: solid;
+  border-color: red green blue yellow;
+}
